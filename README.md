@@ -1,5 +1,4 @@
-# liftlab-code-samples
-Coding samples for the liftlab research fellowship! 
+# Description of Areeya's coding samples! 
 
 ### fires
 A project started from my data journalism class. Part of an ongoing project that I am working on with Professor Jennifer LaFleur at the Berkeley School of Journalism.  
