@@ -2,6 +2,8 @@
 
 ### gitlet
 Part of my implementation of [Gitlet](https://sp21.datastructur.es/materials/proj/proj2/proj2#overview-of-gitlet), a much more simple subset of the Git version control system, as done for CS 61B at Berkeley. My Gitlet is able to save/commit, restore/check out files and commits, view log, maintain branches, and merge changes in branches. 
+- Main files: Main.java, Repository.java
+- Skills/tools: Java, data structures, hashing
 
 ### fires
 A project started from my data journalism class. Part of an ongoing project that I am working on with Professor Jennifer LaFleur at the Berkeley School of Journalism.  
